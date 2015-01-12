@@ -1,1 +1,6 @@
-*.aux, *.bbl,*.log, *.out , *.blg , *.brf , *.syntex , *.toc
+*~
+*.aux  
+*.bbl 
+*.log
+*.out
+*.syntex
