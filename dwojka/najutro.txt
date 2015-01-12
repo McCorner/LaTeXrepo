@@ -1,0 +1,5 @@
+\bibitem{Matieu}  Wikipedia : \emph{http://pl.wikipedia.org/wiki/Jeremy\_Mathieu}
+\bibitem{Bravo}  Wikipedia : \emph{http://pl.wikipedia.org/wiki/Claudio\_Bravo}
+
+\caption{Claudio Bravo\cite{Bravo}}
+\caption{Jeremy Mathieu\cite{Mathieu}}
