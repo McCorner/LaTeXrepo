@@ -1,6 +1,10 @@
 *~
-*.aux  
-*.bbl 
+*.aux
+*.bbl
 *.log
 *.out
 *.syntex
+*.blg
+*.brf
+*.synctex
+*.toc
